@@ -1,0 +1,43 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightcyan;
+}
+
+.head {
+    background-color: black;
+    color: azure;
+    text-align: center;
+}
+
+.nav {
+    background-color: gray;
+    text-align: center;
+}
+
+.nav a {
+    color: azure;
+    text-decoration: none;
+}
+
+#about_title {
+    text-align: center;
+    color: brown;
+}
+
+#about_link {
+    background-color: blue;
+    color: azure;
+    text-decoration: none;
+}
+
+.contact > div {
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+}
+
+.footer {
+    background-color: black;
+    text-align: center;
+    color: azure;
+}
